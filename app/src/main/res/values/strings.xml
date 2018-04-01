@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">News</string>
+    <array name="titles">
+        <item>Positive</item>
+        <item>Negative</item>
+    </array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
